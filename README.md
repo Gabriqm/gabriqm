@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm looking for internships.
-- 🌱 At the moment, i'm learning Python and looking forward to learn C# and Unity.
+- 🌱 At the moment i'm learning Python and looking forward to learn C# and Unity.
 - 🎮 I'm aspiring on becoming a GameDev.
 
 ##
